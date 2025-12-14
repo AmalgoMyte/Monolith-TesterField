@@ -14907,3 +14907,12 @@ Entries:
   id: 1653
   time: '2025-12-14T13:18:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2788
+- author: Ilya246
+  changes:
+    - type: Add
+      message: ADS core and manipulator names changed to be procedurally generated.
+    - type: Tweak
+      message: ADS manipulator laws changed to have to obey ADS cores.
+  id: 1654
+  time: '2025-12-14T14:00:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2789
