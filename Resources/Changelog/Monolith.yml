@@ -15148,3 +15148,12 @@ Entries:
   id: 1679
   time: '2025-12-23T16:19:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2803
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: >-
+        Most of civilian research has been consolidated. Civilian research
+        became way cheaper.
+  id: 1680
+  time: '2025-12-23T19:29:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2784
