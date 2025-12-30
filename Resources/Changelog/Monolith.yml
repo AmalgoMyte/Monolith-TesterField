@@ -15354,3 +15354,20 @@ Entries:
   id: 1703
   time: '2025-12-30T13:36:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2870
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Markup costs from the market console are now much less ridiculous (6x >>
+        2x)
+    - type: Tweak
+      message: Point disk sell price standardized to 20% of its point value
+    - type: Tweak
+      message: Medical vendor prices standardized to 3x their appraisal price
+    - type: Tweak
+      message: >-
+        Topicals and point disks now appear in market console listings when you
+        pawn them
+  id: 1704
+  time: '2025-12-30T13:39:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2869
