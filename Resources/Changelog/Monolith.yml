@@ -15679,3 +15679,10 @@ Entries:
   id: 1740
   time: '2026-01-02T09:29:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2926
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Added another new drone type to outer reaches.
+  id: 1741
+  time: '2026-01-02T14:41:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2927
