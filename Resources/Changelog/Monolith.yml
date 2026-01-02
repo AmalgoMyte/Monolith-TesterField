@@ -15670,3 +15670,12 @@ Entries:
   id: 1739
   time: '2026-01-02T04:25:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2925
+- author: Arcticular1
+  changes:
+    - type: Add
+      message: Medical assembler and borg recharger has been added on the Saturn
+    - type: Fix
+      message: Fixed the Saturn's buttons.
+  id: 1740
+  time: '2026-01-02T09:29:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2926
