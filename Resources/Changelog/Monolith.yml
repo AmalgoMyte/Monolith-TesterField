@@ -16276,3 +16276,10 @@ Entries:
   id: 1801
   time: '2026-01-19T12:11:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2747
+- author: thoughtlessuser
+  changes:
+    - type: Fix
+      message: Fixed black market ATM descriptions and name.
+  id: 1802
+  time: '2026-01-19T12:16:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2998
