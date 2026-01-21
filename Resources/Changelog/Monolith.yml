@@ -16456,3 +16456,12 @@ Entries:
   id: 1822
   time: '2026-01-21T08:11:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3086
+- author: router
+  changes:
+    - type: Tweak
+      message: >-
+        Gas tank explosion maximum intensity now scales with the square root of
+        its radius. You can now maxcap Jupiter if you really want to.
+  id: 1823
+  time: '2026-01-21T17:57:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3092
