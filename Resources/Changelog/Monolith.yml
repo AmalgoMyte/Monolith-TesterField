@@ -16513,3 +16513,10 @@ Entries:
   id: 1829
   time: '2026-01-23T02:22:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3102
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Refactored puddle code, likely decreased server lag.
+  id: 1830
+  time: '2026-01-24T15:28:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3116
