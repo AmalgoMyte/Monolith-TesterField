@@ -16563,3 +16563,18 @@ Entries:
   id: 1835
   time: '2026-01-25T18:35:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3084
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Colossus touchups: Cameras added, entertainment camera server added,
+        comms server has keys now, inaccessible lights don't get btfoed by solar
+        flares, atmos room improved to cram more gas in the cans, and post
+        office touched up.
+    - type: Tweak
+      message: TSF Comms server only has TSF keys now
+    - type: Fix
+      message: Overseer properly starts with comms keys now
+  id: 1836
+  time: '2026-01-25T18:44:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3054
