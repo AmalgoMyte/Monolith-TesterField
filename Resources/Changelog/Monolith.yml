@@ -16536,3 +16536,12 @@ Entries:
   id: 1832
   time: '2026-01-24T19:28:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3101
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: >-
+        Fixed PDV SCAF hardsuit being marked as other-faction and not PDV for
+        contraband purposes.
+  id: 1833
+  time: '2026-01-25T17:36:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3113
