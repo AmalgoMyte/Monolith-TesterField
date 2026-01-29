@@ -16725,3 +16725,12 @@ Entries:
   id: 1851
   time: '2026-01-29T12:32:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3114
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: >-
+        Added new method of research - Entity Containment. Currently
+        mapping-only.
+  id: 1852
+  time: '2026-01-29T12:34:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2989
