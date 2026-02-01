@@ -16871,3 +16871,10 @@ Entries:
   id: 1866
   time: '2026-02-01T18:48:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3142
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: Europa has gotten it's shield removed for better plating.
+  id: 1867
+  time: '2026-02-01T18:58:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3136
