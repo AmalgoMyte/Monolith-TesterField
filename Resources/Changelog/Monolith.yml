@@ -17310,3 +17310,10 @@ Entries:
   id: 1912
   time: '2026-02-22T21:18:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3271
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: MD spawn distance variance increased.
+  id: 1913
+  time: '2026-02-23T05:18:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3263
